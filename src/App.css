@@ -69,3 +69,30 @@
   font-size: small;
   font-weight: 400;
 }
+.bottom {
+  padding: 5px 5px;
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.nextdetails {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    text-align: center;
+}
+.forline {
+border-top: 1.5px solid grey;
+margin-top: 22px;
+}
+.bottom button {
+  background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 8px;
+    margin-top: 22px ;
+  
+}
