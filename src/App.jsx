@@ -24,6 +24,13 @@ function App(){
          <h4>+4</h4>
       </div>
 
+      <div className="bottom ">
+        <p className="nextdetails">Stark is inventor of Jarvis AI who is CEO of Stark Industry </p>
+        <div className="forline">
+          <button>View Profile</button>
+        </div>
+      </div>
+
 
     </div>
     </>
